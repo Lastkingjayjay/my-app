@@ -26,6 +26,7 @@ WEB DESIGNER
 </div>
 <p> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nam nostrum praesentium dolorum temporibus repellat eum sed, id reiciendis suscipit expedita, excepturi in error commodi eveniet exercitationem quod voluptatum explicabo minus.</p>
 <button className='primary-btn'>Contact Us</button>
+
 </div>
         </div>
       </section>
