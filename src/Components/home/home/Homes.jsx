@@ -7,7 +7,7 @@ const Home = () => {
         <div className="container flex">
     <div className="left">
       <div className="img">
-        <img src="./images/assets/home.png" alt="" />
+        <img src="./assets/home.png" alt="" />
       </div>
     </div>
 <div className="right topMargin">

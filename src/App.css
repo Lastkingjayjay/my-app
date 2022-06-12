@@ -121,7 +121,7 @@ position: relative;
   height: 90vh;
 }
 .home .img{
-  height: 90vh;
+  height: 500vh;
   width: 100%;
   position: relative;
 }
@@ -129,10 +129,10 @@ position: relative;
 position: absolute;
 top: 0;
 left: 0;
-height: 90vh;
+height: 150vh;
 width: 100%;
 object-fit: contain;
-transform:scale(1.1) ;
+transform:scale(1.1) 
 
 }
 .home h1{
