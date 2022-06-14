@@ -418,11 +418,12 @@ margin-bottom: 20px;
 }
 
 /*Skill*/   
+ 
 /*WrapperOne*/   
 .grid1{
   display: grid;
   grid-template-columns: repeat(4,1fr);
-  grid-gap: 30px;
+  grid-gap: px;
   
 }
 .wrapperOne{
@@ -507,7 +508,8 @@ grid-row-end: 4;
   height: 550px;
 
 }
-.overlay {display: flex;
+.overlay {
+  display: flex;
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
@@ -566,7 +568,7 @@ z-index: 4 ;}
 .work .box .icon {  
   margin-top: 25%;
 }
-.icon {
+.iconWork {
   position: absolute;
   width: 100%;}
   .iconWork:nth-child(1) {
