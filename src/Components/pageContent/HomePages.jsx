@@ -7,6 +7,7 @@ import Wrapper from '../home/servicess/services/Wrapper'
 import Skill from '../home/servicess/services/Skill'
 import WrapperOne from '../home/servicess/services/WrapperOne'
 import Work from '../home/work/Work';
+import Blog from '../home/work/blog/Blog';
 
 const HomePages = () => {
   return (
@@ -19,6 +20,7 @@ const HomePages = () => {
     <Skill />
     <WrapperOne />
     <Work />
+    <Blog />
     
     
     </>
