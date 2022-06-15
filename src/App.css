@@ -579,3 +579,45 @@ z-index: 4 ;}
       }
 
 /*work*/ 
+/*blog*/ 
+.blog .heading {
+  text-align: center;
+
+}
+.blog .text{
+  margin: 0;
+
+}
+.blog span {
+  opacity: 0;
+  font-size: 15px;
+}
+.blog h2{
+  margin: 20px 0;
+}
+.blog a{
+  color: #38d16a;
+  display: block;
+  line-height: 20px;
+}
+.blog a .icon{
+  padding-top: 10px;
+
+
+}
+
+/*blog*/
+
+
+/*Footer*/
+
+footer{
+  background-color: #08071C;
+  padding: 100px 0 0 0;
+  color: #fff;
+}
+footer p{
+  color: #FFF;
+  margin:20px 0 ;
+}
+/*Footer*/
